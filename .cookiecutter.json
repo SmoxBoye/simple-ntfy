@@ -1,0 +1,15 @@
+{
+  "_output_dir": "H:\\Programmering\\smoxntfytools",
+  "_repo_dir": "C:\\Users\\simon\\.cookiecutters\\cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "SmoxBoye",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "contact@smoxboye.com",
+  "friendly_name": "Simple ntfy",
+  "github_user": "SmoxBoye",
+  "license": "MIT",
+  "package_name": "simple_ntfy",
+  "project_name": "simple-ntfy",
+  "version": "0.0.0"
+}
